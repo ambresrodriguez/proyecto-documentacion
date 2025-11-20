@@ -1,0 +1,11 @@
+#Ingnorar archivos:
+*.DS_Store
+*Thumbs.db
+
+*~
+*.bak
+
+*.log
+#Ignorar carpeta:
+/temp/
+
