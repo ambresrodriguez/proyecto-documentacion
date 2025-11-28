@@ -1,1 +1,1 @@
-cambios realizados
+cambios realizados en glosario.md
